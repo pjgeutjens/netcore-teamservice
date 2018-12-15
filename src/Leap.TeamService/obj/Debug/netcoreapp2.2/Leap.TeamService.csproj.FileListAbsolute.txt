@@ -1,0 +1,14 @@
+/home/pjgeutjens/dotnet-core/Leap.TeamService/src/Leap.TeamService/bin/Debug/netcoreapp2.2/Leap.TeamService.deps.json
+/home/pjgeutjens/dotnet-core/Leap.TeamService/src/Leap.TeamService/bin/Debug/netcoreapp2.2/Leap.TeamService.runtimeconfig.json
+/home/pjgeutjens/dotnet-core/Leap.TeamService/src/Leap.TeamService/bin/Debug/netcoreapp2.2/Leap.TeamService.runtimeconfig.dev.json
+/home/pjgeutjens/dotnet-core/Leap.TeamService/src/Leap.TeamService/bin/Debug/netcoreapp2.2/Leap.TeamService.dll
+/home/pjgeutjens/dotnet-core/Leap.TeamService/src/Leap.TeamService/bin/Debug/netcoreapp2.2/Leap.TeamService.pdb
+/home/pjgeutjens/dotnet-core/Leap.TeamService/src/Leap.TeamService/obj/Debug/netcoreapp2.2/Leap.TeamService.csprojAssemblyReference.cache
+/home/pjgeutjens/dotnet-core/Leap.TeamService/src/Leap.TeamService/obj/Debug/netcoreapp2.2/Leap.TeamService.csproj.CoreCompileInputs.cache
+/home/pjgeutjens/dotnet-core/Leap.TeamService/src/Leap.TeamService/obj/Debug/netcoreapp2.2/Leap.TeamService.RazorAssemblyInfo.cache
+/home/pjgeutjens/dotnet-core/Leap.TeamService/src/Leap.TeamService/obj/Debug/netcoreapp2.2/Leap.TeamService.RazorAssemblyInfo.cs
+/home/pjgeutjens/dotnet-core/Leap.TeamService/src/Leap.TeamService/obj/Debug/netcoreapp2.2/Leap.TeamService.AssemblyInfoInputs.cache
+/home/pjgeutjens/dotnet-core/Leap.TeamService/src/Leap.TeamService/obj/Debug/netcoreapp2.2/Leap.TeamService.AssemblyInfo.cs
+/home/pjgeutjens/dotnet-core/Leap.TeamService/src/Leap.TeamService/obj/Debug/netcoreapp2.2/Leap.TeamService.RazorTargetAssemblyInfo.cache
+/home/pjgeutjens/dotnet-core/Leap.TeamService/src/Leap.TeamService/obj/Debug/netcoreapp2.2/Leap.TeamService.dll
+/home/pjgeutjens/dotnet-core/Leap.TeamService/src/Leap.TeamService/obj/Debug/netcoreapp2.2/Leap.TeamService.pdb

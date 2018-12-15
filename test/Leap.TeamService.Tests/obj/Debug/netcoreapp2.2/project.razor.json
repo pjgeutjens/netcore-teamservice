@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/home/pjgeutjens/dotnet-core/Leap.TeamService/test/Leap.TeamService.Tests/Leap.TeamService.Tests.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
